@@ -4,10 +4,10 @@
 using namespace std;
 
 class Solution {
-public:
-    // Fenwick Tree (Binary Indexed Tree) Implementation
-    void update(vector<int>& bit, int idx, int val, int n) {
-        for (; idx <= n; idx += idx & -idx) {
+private:
+    // Fenwick Tree (Binary Indexed Tree) implementation
+    void update(vector<int>& bit, int idx, int val, int max_idx) {
+        for (; idx <= max_idx; idx += idx & -idx) {
             bit[idx] += val;
         }
     }
@@ -20,40 +20,35 @@ public:
         return sum;
     }
 
+public:
     long long countMajoritySubarrays(vector<int>& nums, int target) {
         int n = nums.size();
         
-        // 1. Generate Prefix Sums
-        vector<int> pref(n + 1, 0);
-        for (int i = 0; i < n; ++i) {
-            int val = (nums[i] == target) ? 1 : -1;
-            pref[i + 1] = pref[i] + val;
-        }
-
-        // 2. Coordinate Compression for Fenwick Tree indices
-        vector<int> ranks = pref;
-        sort(ranks.begin(), ranks.end());
-        ranks.erase(unique(ranks.begin(), ranks.end()), ranks.end());
+        // The prefix sum can range from -n to n. 
+        // We shift everything by + (n + 1) to make all indices positive and 1-based.
+        int offset = n + 1;
+        int max_idx = 2 * n + 2;
         
-        auto getRank = [&](int val) {
-            return lower_bound(ranks.begin(), ranks.end(), val) - ranks.begin() + 1;
-        };
-
-        // 3. Count pairs using the Fenwick Tree
-        long long totalSubarrays = 0;
-        int m = ranks.size();
-        vector<int> bit(m + 1, 0);
-
-        for (int i = 0; i <= n; ++i) {
-            int currentRank = getRank(pref[i]);
+        // Size the vector to max_idx + 1 so that accessing bit[max_idx] is perfectly safe
+        vector<int> bit(max_idx + 1, 0);
+        
+        long long valid_subarrays_count = 0;
+        int current_prefix_sum = 0;
+        
+        // Initialize the Fenwick Tree with the initial prefix sum P[0] = 0
+        update(bit, current_prefix_sum + offset, 1, max_idx);
+        
+        for (int num : nums) {
+            // Transform to +1 if match, else -1
+            current_prefix_sum += (num == target) ? 1 : -1;
             
-            // Query how many previous prefix sums have a strictly smaller value
-            totalSubarrays += query(bit, currentRank - 1);
+            // Query the number of elements strictly less than current_prefix_sum
+            valid_subarrays_count += query(bit, current_prefix_sum + offset - 1);
             
-            // Add the current prefix sum rank to the Fenwick Tree
-            update(bit, currentRank, 1, m);
+            // Add the current prefix sum to the Fenwick Tree
+            update(bit, current_prefix_sum + offset, 1, max_idx);
         }
-
-        return totalSubarrays;
+        
+        return valid_subarrays_count;
     }
 };
