@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nava08/leet/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nava08/leet/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/nava08/leet/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/nava08/leet/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nava08/leet/tree/master/0088-merge-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nava08/leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nava08/leet/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/nava08/leet/tree/master/0049-group-anagrams) |
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nava08/leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nava08/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -81,9 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/nava08/leet/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/nava08/leet/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/nava08/leet/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nava08/leet/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/nava08/leet/tree/master/0047-permutations-ii) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/nava08/leet/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
