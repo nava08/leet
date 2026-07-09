@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nava08/leet/tree/master/0010-regular-expression-matching) |
+| [0095-unique-binary-search-trees-ii](https://github.com/nava08/leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nava08/leet/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/nava08/leet/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/nava08/leet/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/nava08/leet/tree/master/0047-permutations-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/nava08/leet/tree/master/0095-unique-binary-search-trees-ii) |
 ## String
 |  |
 | ------- |
@@ -110,4 +112,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nava08/leet/tree/master/0010-regular-expression-matching) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nava08/leet/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nava08/leet/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nava08/leet/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
