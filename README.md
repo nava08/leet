@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nava08/leet/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/nava08/leet/tree/master/0155-min-stack) |
 ## Recursion
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nava08/leet/tree/master/0095-unique-binary-search-trees-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nava08/leet/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
