@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nava08/leet/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/nava08/leet/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nava08/leet/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/nava08/leet/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/nava08/leet/tree/master/0088-merge-sorted-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/nava08/leet/tree/master/1301-number-of-paths-with-max-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/nava08/leet/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/nava08/leet/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/nava08/leet/tree/master/0095-unique-binary-search-trees-ii) |
 ## String
 |  |
