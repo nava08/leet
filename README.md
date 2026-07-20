@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/nava08/leet/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/nava08/leet/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/nava08/leet/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/nava08/leet/tree/master/0095-unique-binary-search-trees-ii) |
 ## String
 |  |
