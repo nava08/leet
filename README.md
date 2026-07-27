@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nava08/leet/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nava08/leet/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/nava08/leet/tree/master/0088-merge-sorted-array) |
+| [0475-heaters](https://github.com/nava08/leet/tree/master/0475-heaters) |
 | [0881-boats-to-save-people](https://github.com/nava08/leet/tree/master/0881-boats-to-save-people) |
 | [1301-number-of-paths-with-max-score](https://github.com/nava08/leet/tree/master/1301-number-of-paths-with-max-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nava08/leet/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nava08/leet/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/nava08/leet/tree/master/0088-merge-sorted-array) |
+| [0475-heaters](https://github.com/nava08/leet/tree/master/0475-heaters) |
 | [0881-boats-to-save-people](https://github.com/nava08/leet/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/nava08/leet/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nava08/leet/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nava08/leet/tree/master/0088-merge-sorted-array) |
+| [0475-heaters](https://github.com/nava08/leet/tree/master/0475-heaters) |
 | [0881-boats-to-save-people](https://github.com/nava08/leet/tree/master/0881-boats-to-save-people) |
 ## Backtracking
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nava08/leet/tree/master/0095-unique-binary-search-trees-ii) |
+| [0475-heaters](https://github.com/nava08/leet/tree/master/0475-heaters) |
 ## Binary Tree
 |  |
 | ------- |
