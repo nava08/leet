@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nava08/leet/tree/master/0010-regular-expression-matching) |
 | [0095-unique-binary-search-trees-ii](https://github.com/nava08/leet/tree/master/0095-unique-binary-search-trees-ii) |
+| [0975-odd-even-jump](https://github.com/nava08/leet/tree/master/0975-odd-even-jump) |
 | [1301-number-of-paths-with-max-score](https://github.com/nava08/leet/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/nava08/leet/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/nava08/leet/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/nava08/leet/tree/master/0475-heaters) |
 | [0853-car-fleet](https://github.com/nava08/leet/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/nava08/leet/tree/master/0881-boats-to-save-people) |
+| [0975-odd-even-jump](https://github.com/nava08/leet/tree/master/0975-odd-even-jump) |
 | [1301-number-of-paths-with-max-score](https://github.com/nava08/leet/tree/master/1301-number-of-paths-with-max-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nava08/leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/nava08/leet/tree/master/0475-heaters) |
 | [0853-car-fleet](https://github.com/nava08/leet/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/nava08/leet/tree/master/0881-boats-to-save-people) |
+| [0975-odd-even-jump](https://github.com/nava08/leet/tree/master/0975-odd-even-jump) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nava08/leet/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/nava08/leet/tree/master/0155-min-stack) |
 | [0853-car-fleet](https://github.com/nava08/leet/tree/master/0853-car-fleet) |
+| [0975-odd-even-jump](https://github.com/nava08/leet/tree/master/0975-odd-even-jump) |
 ## Recursion
 |  |
 | ------- |
@@ -147,4 +151,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/nava08/leet/tree/master/0853-car-fleet) |
+| [0975-odd-even-jump](https://github.com/nava08/leet/tree/master/0975-odd-even-jump) |
+## Ordered Set
+|  |
+| ------- |
+| [0975-odd-even-jump](https://github.com/nava08/leet/tree/master/0975-odd-even-jump) |
 <!---LeetCode Topics End-->
