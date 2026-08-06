@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nava08/leet/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/nava08/leet/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nava08/leet/tree/master/0049-group-anagrams) |
+| [0299-bulls-and-cows](https://github.com/nava08/leet/tree/master/0299-bulls-and-cows) |
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nava08/leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nava08/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/nava08/leet/tree/master/0299-bulls-and-cows) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nava08/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/nava08/leet/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/nava08/leet/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nava08/leet/tree/master/0049-group-anagrams) |
+| [0299-bulls-and-cows](https://github.com/nava08/leet/tree/master/0299-bulls-and-cows) |
 ## Stack
 |  |
 | ------- |
