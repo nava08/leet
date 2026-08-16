@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/nava08/leet/tree/master/0881-boats-to-save-people) |
 | [0975-odd-even-jump](https://github.com/nava08/leet/tree/master/0975-odd-even-jump) |
 | [1301-number-of-paths-with-max-score](https://github.com/nava08/leet/tree/master/1301-number-of-paths-with-max-score) |
+| [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nava08/leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nava08/leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -69,9 +70,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nava08/leet/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nava08/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/nava08/leet/tree/master/0881-boats-to-save-people) |
+| [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
 ## Math
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/nava08/leet/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/nava08/leet/tree/master/0299-bulls-and-cows) |
+| [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nava08/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -175,4 +179,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nava08/leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
