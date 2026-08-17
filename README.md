@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nava08/leet/tree/master/0198-house-robber) |
 | [0975-odd-even-jump](https://github.com/nava08/leet/tree/master/0975-odd-even-jump) |
 | [1301-number-of-paths-with-max-score](https://github.com/nava08/leet/tree/master/1301-number-of-paths-with-max-score) |
+| [1563-stone-game-v](https://github.com/nava08/leet/tree/master/1563-stone-game-v) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/nava08/leet/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/nava08/leet/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/nava08/leet/tree/master/0881-boats-to-save-people) |
 | [0975-odd-even-jump](https://github.com/nava08/leet/tree/master/0975-odd-even-jump) |
 | [1301-number-of-paths-with-max-score](https://github.com/nava08/leet/tree/master/1301-number-of-paths-with-max-score) |
+| [1563-stone-game-v](https://github.com/nava08/leet/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nava08/leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/nava08/leet/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/nava08/leet/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/nava08/leet/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
