@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nava08/leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/nava08/leet/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nava08/leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nava08/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nava08/leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nava08/leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nava08/leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/nava08/leet/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nava08/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nava08/leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
