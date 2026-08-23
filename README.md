@@ -76,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nava08/leet/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nava08/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/nava08/leet/tree/master/0881-boats-to-save-people) |
+| [1927-sum-game](https://github.com/nava08/leet/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
 ## Math
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/nava08/leet/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/nava08/leet/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nava08/leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nava08/leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nava08/leet/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nava08/leet/tree/master/0049-group-anagrams) |
 | [0299-bulls-and-cows](https://github.com/nava08/leet/tree/master/0299-bulls-and-cows) |
+| [1927-sum-game](https://github.com/nava08/leet/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nava08/leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/nava08/leet/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/nava08/leet/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nava08/leet/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
