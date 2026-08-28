@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nava08/leet/tree/master/0088-merge-sorted-array) |
 | [0475-heaters](https://github.com/nava08/leet/tree/master/0475-heaters) |
 | [0881-boats-to-save-people](https://github.com/nava08/leet/tree/master/0881-boats-to-save-people) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nava08/leet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nava08/leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nava08/leet/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nava08/leet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/nava08/leet/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nava08/leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nava08/leet/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nava08/leet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
